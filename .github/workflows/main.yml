@@ -2,7 +2,7 @@ name: YunP4n_Sec
 
 on:
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '5 * * * *'
 
 env:
   TZ: Asia/Shanghai
